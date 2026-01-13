@@ -1,0 +1,4 @@
+xgboost==1.7.5
+shap==0.41.0
+plotly==5.14.1
+joblib==1.2.0
